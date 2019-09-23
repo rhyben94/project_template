@@ -1,8 +1,11 @@
-# Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Research Practicum 2019 – Research Plan
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: Team WoW
+> * Group participants names:
+>> * Simon Soschinski
+>> * Rhyse Bendell
+>> * Jordan Dauble
+>> * Emmanuel Otero
 > * Project Title: (can be changed later)
 
 ## General Introduction
