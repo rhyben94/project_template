@@ -6,7 +6,7 @@
 >> * Rhyse Bendell
 >> * Jordan Dauble
 >> * Emmanuel Otero
-> * Project Title: (can be changed later)
+> * Project Title: (A Mixed-Methods Analysis of Virtual Sociology in World of Warcraft?)
 
 ## General Introduction
 
@@ -34,9 +34,47 @@
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
 
 ## References 
+(Using APA citations)
 
-(Add the bibliographic references you intend to use in format you want)
+Ask, K., & Sørensen, K. H. (2019). Domesticating technology for shared success: collective enactments of World of Warcraft. Information, Communication & Society, 22(1), 73-88.
 
+Fernandes, L. V., Castanho, C. D., & Jacobi, R. P. (2018, October). A Survey on Game Analytics in Massive Multiplayer Online Games. In 2018 17th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 21-2109). IEEE.
 
+Siqueira, E. S., Castanho, C. D., Rodrigues, G. N., & Jacobi, R. P. (2017, November). A data analysis of player in world of warcraft using game data mining. In 2017 16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 1-9). IEEE.
 
+Bainbridge, W. S. (2016). Virtual sociocultural convergence. Springer International Publishing.
 
+Hornbeck, R. G. (2016). Explaining time spent in multiplayer online games: Moral cognition in Chinese World of Warcraft. Games and Culture, 11(5), 489-509.
+
+Root, R. (2016). Navigating Sociotechnical Power Structures: Dynamics of Conflict in World of Warcraft's Player versus Player Events.
+
+Sapach, S. C. (2015). The WoW Factor: A Virtual Ethnographic Study of Sacred Things and Rituals in World of Warcraft.
+
+Golub, A. (2014). The anthropology of virtual worlds: world of warcraft. Reviews in Anthropology, 43(2), 135-149.
+
+Hutchinson, E. (2014). Researching forums in online ethnography: Practice and ethics. In Big Data? Qualitative Approaches to Digital Research (pp. 91-112). Emerald Group Publishing Limited.
+
+Kirschner, D. (2014). Gameplay Socialization: Meaning-Making, Player-Computer and Player-Player Interaction in Digital Games (Doctoral dissertation, PhD dissertation, Nanyang Technological University).
+
+Voulgari, I., Komis, V., & Sampson, D. G. (2014). Learning outcomes and processes in massively multiplayer online games: exploring the perceptions of players. Educational Technology Research and Development, 62(2), 245-270.
+
+Bainbridge, W. S. (2012). The Warcraft civilization: Social science in a virtual world. MIT Press.
+
+Evans, S. (2012). Virtual selves, real relationships: An exploration of the context and role for social interactions in the emergence of self in virtual environments. Integrative psychological and behavioral science, 46(4), 512-528.
+
+Williams, J. P., & Kirschner, D. (2012). Coordinated action in the massively multiplayer online game World of Warcraft. Symbolic Interaction, 35(3), 340-367.
+
+Weiss, A., & Tettegah, S. (2012). World of race war: Race and learning in World of Warcraft. International Journal of Gaming and Computer-Mediated Simulations (IJGCMS), 4(4), 33-44.
+
+SONSTROEM, P. (2012). The Reality of Virtual Realities: An in Depth Glimpse at the Interactions That Occur Within the Online Gaming Communities of World of Warcraft and Continuum (Doctoral dissertation, Durham University).
+
+McKenna, B., Gardner, L., & Myers, M. (2011). Social movements in World of Warcraft. In 17th Americas Conference on Information Systems.
+
+Ahmad, M. A., Borbora, Z., Shen, C., Srivastava, J., & Williams, D. (2011, October). Guild play in MMOGs: rethinking common group dynamics models. In International Conference on Social Informatics (pp. 145-152). Springer, Berlin, Heidelberg.
+
+Spottke, J. C. (2010). Ethnographic Reflection On Group Formation In Blizzard's" world Of Warcraft".
+
+Mosley, Ian D. (2010) "Personality and Character Selection in World of Warcraft," McNair Scholars Research Journal: Vol. 6 : Iss. 1 , Article 12.
+Available at: https://scholarworks.boisestate.edu/mcnair_journal/vol6/iss1/12
+
+De Paoli, S. (2010). My Life as a Night Elf Priest. An Antropological Account of World of Warcraft.
