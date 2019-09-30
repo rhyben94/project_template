@@ -42,13 +42,21 @@ Fernandes, L. V., Castanho, C. D., & Jacobi, R. P. (2018, October). A Survey on 
 
 Siqueira, E. S., Castanho, C. D., Rodrigues, G. N., & Jacobi, R. P. (2017, November). A data analysis of player in world of warcraft using game data mining. In 2017 16th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames) (pp. 1-9). IEEE.
 
+Halim, Z., Atif, M., Rashid, A., & Edwin, C. A. (2017). Profiling players using real-world datasets: Clustering the data and correlating the results with the big-five personality traits. IEEE Transactions on Affective Computing.
+
 Bainbridge, W. S. (2016). Virtual sociocultural convergence. Springer International Publishing.
 
 Hornbeck, R. G. (2016). Explaining time spent in multiplayer online games: Moral cognition in Chinese World of Warcraft. Games and Culture, 11(5), 489-509.
 
 Root, R. (2016). Navigating Sociotechnical Power Structures: Dynamics of Conflict in World of Warcraft's Player versus Player Events.
 
+Bean, A., & Groth-Marnat, G. (2016). Video gamers and personality: A five-factor model to understand game playing style. Psychology of Popular Media Culture, 5(1), 27.
+
+Bean, A. M., Ferro, L. S., Vissoci, J. R. N., Rivero, T., & Groth-Marnat, G. (2016). The emerging adolescent World of Warcraft video gamer: A five factor exploratory profile model. Entertainment Computing, 17, 45-54.
+
 Sapach, S. C. (2015). The WoW Factor: A Virtual Ethnographic Study of Sacred Things and Rituals in World of Warcraft.
+
+Bean, A. M. (2015). Video gamers' personas: A five factor study exploring personality elements of the video gamer. Pacifica Graduate Institute.
 
 Golub, A. (2014). The anthropology of virtual worlds: world of warcraft. Reviews in Anthropology, 43(2), 135-149.
 
